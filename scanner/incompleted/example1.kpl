@@ -1,0 +1,5 @@
+Program Example1; (* Example 1 *)
+Begin
+m : integer;
+n: float;
+End. (* Example 1 *)
