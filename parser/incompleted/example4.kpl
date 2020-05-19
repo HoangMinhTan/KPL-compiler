@@ -1,0 +1,5 @@
+PROGRAM example4;
+VAR f : float; (* phan khai bao bien *)
+BEGIN
+ f := f + 2.5;
+END.
